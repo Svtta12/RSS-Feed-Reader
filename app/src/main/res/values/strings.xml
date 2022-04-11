@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyRSSReader</string>
+    <string name="title_article_list">Новости</string>
+    <string name="title_favorites_list">Сохраненное</string>
+    <string name="title_new_list">Добавить</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onetext">Главная страница</string>
+    <string name="favor">Сохраненное</string>
+    <string name="onenew">Добавить</string>
+</resources>
